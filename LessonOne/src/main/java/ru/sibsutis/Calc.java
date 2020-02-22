@@ -1,4 +1,4 @@
-
+    package ru.sibsutis;
     import java.util.Scanner;
 
 
